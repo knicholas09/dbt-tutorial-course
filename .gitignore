@@ -1,4 +1,4 @@
-/venv
+.venv312
 .user.yml
 /logs
 logs
